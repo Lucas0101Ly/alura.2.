@@ -25,6 +25,7 @@ body {
 }
 
 .cartao__conteudo {
+    background: url('assets/img/bg-desktop.webp');
     background-color: var(--card-front-color);
     text-align: center;
     /* background-color: aquamarine; */
