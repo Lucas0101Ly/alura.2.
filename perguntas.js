@@ -20,5 +20,5 @@ criaCartao(
 criaCartao(
     'Questão 04',
     'Quem é o Melhor Professor do Universo???',
-    'É O BUYU!!!'
+    'É O BUIU!!!'
 )
