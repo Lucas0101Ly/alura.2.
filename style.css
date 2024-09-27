@@ -58,7 +58,6 @@ body {
 }
 
 .cartao__conteudo__resposta p {
-    background: url('assets/img/download.png');
     color: var(--card-back-color);
     font-weight: 700;
 }
